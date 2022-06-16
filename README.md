@@ -2,10 +2,10 @@
 - 👀 I’m interested in anything belongs to coding
 - 📫 Contact me:
 <p align="center">
-<a href="linkedin.com/in/mirheydər-yəhyayev-2aa8b0234">
+<a href="https://www.linkedin.com/in/mirheyd%C9%99r-y%C9%99hyayev-2aa8b0234/">
   <img color="white" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
 </a> 
-<a href="linkedin.com/in/mirheydər-yəhyayev-2aa8b0234">
+<a href="https://t.me/MirHeyder03">
   <img  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/telegram.svg" />
 </p>
 
