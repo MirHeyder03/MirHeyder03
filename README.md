@@ -10,4 +10,7 @@
 </p>
 
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirHeyder03&theme=radical"/>
-<img align="center" height="250px" width="600px" src="https://github-readme-stats.vercel.app/api?username=MirHeyder03&show_icons=true&theme=radical"/>
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=MirHeyder03&show_icons=true&theme=radical"/>
+
+
+
