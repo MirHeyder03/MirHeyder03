@@ -9,9 +9,9 @@
   <img  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/telegram.svg" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirHeyder03&theme=radical)
 
-![MirHeyder03's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirHeyder03&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirHeyder03&theme=radical)      ![MirHeyder03's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirHeyder03&show_icons=true&theme=radical)
+
 
 
  
