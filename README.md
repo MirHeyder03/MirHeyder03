@@ -15,7 +15,7 @@
 <h1 align="center">Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,html,css,scss,bootstrap,js,react,redux,typescript" />
+    <img src="https://skillicons.dev/icons?i=git,github,bash,html,css,scss,bootstrap,materialui,js,react,redux,typescript,figma" />
   </a>
 </p>
 <p align="center">
