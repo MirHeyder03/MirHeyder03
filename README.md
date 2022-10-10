@@ -15,12 +15,12 @@
 <h1 align="center">Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,html,css,scss,bootstrap,materialui,js,react,redux,typescript,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,bash,html,css,scss,bootstrap,tailwindcss,materialui,js,react,redux,typescript,figma" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,linux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,firebase,python,linux" />
   </a>
 </p>
 <hr/>
