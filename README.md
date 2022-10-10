@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Javascript+Developer;)](https://git.io/typing-svg)
 - 👋 Hi, I’m @MirHeyder03
 - 👀 I’m interested in anything belongs to coding
 - 📫 Contact me:
