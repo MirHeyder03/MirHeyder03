@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Javascript+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Javascript+Developer;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @MirHeyder03
 - 👀 I’m interested in anything belongs to coding
 - 📫 Contact me:
@@ -9,7 +10,6 @@
 <a href="https://t.me/MirHeyder03">
   <img width="32px" src="https://s4.uupload.ir/files/telegram_q47u.png" />
 </p>
-
 
 
 <hr/>
@@ -26,8 +26,15 @@
 </p>
 <hr/>
 
-<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirHeyder03&theme=radical"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MirHeyder03&show_icons=true&theme=radical"/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MirHeyder03&show_icons=true&theme=radical"/>
+</div>
+<br/>
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirHeyder03&theme=radical"/>
+ </div>
+
+ 
 
 
 
