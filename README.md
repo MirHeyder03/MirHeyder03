@@ -35,6 +35,11 @@
  </div>
 
  
-
+ 
+<div align="center">
+  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mirheyder)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
 
 
