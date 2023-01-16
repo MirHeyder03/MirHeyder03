@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Javascript+Developer;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=white)
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Full+Stack+Javascript+Developer;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mirheyder+Yehyayev;)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @MirHeyder03
 - 👀 I’m interested in anything belongs to coding
@@ -10,8 +14,9 @@
 <a href="https://t.me/MirHeyder03">
   <img width="32px" src="https://s4.uupload.ir/files/telegram_q47u.png" />
 </p>
-
-
+  
+![Profile Views](https://komarev.com/ghpvc/?username=MirHeyder03&color=green) ![Followers](https://img.shields.io/github/followers/MirHeyder03)
+  
 <hr/>
 <h1 align="center">Skills</h1>
 <p align="center">
