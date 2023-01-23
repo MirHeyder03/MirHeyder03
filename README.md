@@ -1,4 +1,4 @@
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=white)
+<!--  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=white) -->
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Full+Stack+Javascript+Developer;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
 
@@ -41,10 +41,10 @@
 
  
  
-<div align="center">
+<!-- <div align="center">
   
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mirheyder)](https://github.com/anuraghazra/github-readme-stats)
   
- </div>
+ </div> -->
 
 
