@@ -19,14 +19,21 @@
   
 <hr/>
 <h1 align="center">Skills</h1>
-<p align="center">
+<p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,html,css,scss,bootstrap,tailwindcss,materialui,js,react,redux,typescript,figma" />
+    <img src="https://skillicons.dev/icons?i=bash,git,github,gitlab,,html,css,scss,bootstrap,tailwindcss,materialui,figma" />
   </a>
 </p>
-<p align="center">
+
+<p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,firebase,python,linux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,js,,react,nextjs,redux,typescript,,mysql,mongo,firebase" />
+  </a>
+</p>
+
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,linux" />
   </a>
 </p>
 <hr/>
