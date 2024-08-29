@@ -1,10 +1,10 @@
 <!--  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=white) -->
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Full+Stack+Javascript+Developer;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Javascript+Developer;NodeJS+Developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mirheyder+Yehyayev;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mirheydar+Yahyayev;)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m @MirHeyder03
+- 👋 Hi, I’m @MirHeydar
 - 👀 I’m interested in anything belongs to coding
 - 📫 Contact me:
 <p align="center">
